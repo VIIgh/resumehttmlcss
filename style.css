@@ -1,0 +1,27 @@
+.card {
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    
+}
+.card-foto {
+    width: 400px;
+    margin: auto;
+    box-shadow: 0 5px 10px;
+    border-radius: 30%;
+    
+}
+.text {
+    width: 400px;
+    margin: auto;
+}
+.message {
+    width: 400px;
+    margin: auto;
+}
+h1{
+    margin: a ;
+}
+.search {
+    margin: auto;
+}
